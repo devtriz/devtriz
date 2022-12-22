@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ana Beatriz
 
-- 🔭 Desenvolvedora Front-end
-- 🌱 Atualmente estudando Python
+- 🔭 Dev trainee
+- 🌱 Atualmente estudando C#
 - 👯 Contate-me no email: anabea.bae@gmail.com
 
 <div align="center">
